@@ -15,7 +15,7 @@ The CSV file contains the following fields:
 - ComputerType (Desktop or Laptop)
 - Comment
 
-Your task is to write a Python program that calculates the minimum number of copies of application 374 the company must purchase. 
+Your task is to write a program that calculates the minimum number of copies of application 374 the company must purchase. 
 
 **Requirements:**
 
@@ -29,8 +29,8 @@ Your task is to write a Python program that calculates the minimum number of cop
 
 **Deliverables:**
 
-- Python script for the main program.
-- Python script for the unit tests.
+- Code for the main program.
+- Code for the unit tests.
 - A README file explaining how to run your scripts and any other pertinent information.
 - A sample output run on a given dataset.
 
