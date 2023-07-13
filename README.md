@@ -17,6 +17,10 @@ The CSV file contains the following fields:
 
 Your task is to write a program that calculates the minimum number of copies of application 374 the company must purchase. 
 
+**Preferred Language:**
+
+Java. However, you may use Python or another language if you are more comfortable with them.
+
 **Requirements:**
 
 1. Your code must correctly calculate the minimum number of copies needed for any given data set.
@@ -29,8 +33,8 @@ Your task is to write a program that calculates the minimum number of copies of 
 
 **Deliverables:**
 
-- Code for the main program.
-- Code for the unit tests.
+- Source code for the main program.
+- Source code for the unit tests.
 - A README file explaining how to run your scripts and any other pertinent information.
 - A sample output run on a given dataset.
 
